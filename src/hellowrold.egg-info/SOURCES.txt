@@ -1,0 +1,5 @@
+setup.py
+src/hellowrold.egg-info/PKG-INFO
+src/hellowrold.egg-info/SOURCES.txt
+src/hellowrold.egg-info/dependency_links.txt
+src/hellowrold.egg-info/top_level.txt
